@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0233c6eb41ad2ee45a55bf785b5656c5
+  - enabled: 1
+    path: Assets/Scenes/MunchSCENA.unity
+    guid: 461414997223ce1459d107e9f80a74b2
+  - enabled: 1
+    path: Assets/Scenes/RandomModeSCENA.unity
+    guid: 741a2d03ad935d749b07ce1a61020eba
+  m_configObjects: {}
